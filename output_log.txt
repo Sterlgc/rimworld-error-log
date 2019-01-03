@@ -23,7 +23,7 @@ Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed
 Loading D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll into Unity Child Domain
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
 Loading D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
-- Completed reload, in  0.042 seconds
+- Completed reload, in  0.174 seconds
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.dll (this message is harmless)
@@ -33,87 +33,87 @@ WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to defau
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 3360x1080 at -1440,0
 <RI> Initialized touch support.
-UnloadTime: 1.295098 ms
+UnloadTime: 1.197676 ms
 RimWorld 1.0.2096 rev473
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.Linq.dll (this message is harmless)
-Non platform assembly: data-0000000011735E90 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011735E90.dll
-Non platform assembly: data-0000000011761DC0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011761DC0.dll
-Non platform assembly: data-00000000117865D0 (this message is harmless)
-Non platform assembly: data-0000000011381940 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011381940.dll
-Non platform assembly: data-00000000117865D0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000117865D0.dll
-Non platform assembly: data-00000000117AD1E0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000117AD1E0.dll
-Non platform assembly: data-00000000117BD1F0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000117BD1F0.dll
-Non platform assembly: data-00000000117E1430 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000117E1430.dll
-Non platform assembly: data-000000001181CE60 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001181CE60.dll
-Non platform assembly: data-000000001184BE10 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001184BE10.dll
-Non platform assembly: data-00000000116F0950 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000116F0950.dll
-Non platform assembly: data-0000000011870420 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011870420.dll
-Non platform assembly: data-0000000011871E30 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011871E30.dll
-Non platform assembly: data-000000001170BF80 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001170BF80.dll
-Non platform assembly: data-0000000011878640 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011878640.dll
-Non platform assembly: data-000000001187A050 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001187A050.dll
-Non platform assembly: data-000000001187F860 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001187F860.dll
-Non platform assembly: data-000000000DAD5800 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DAD5800.dll
-Non platform assembly: data-0000000011428900 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011428900.dll
-Non platform assembly: data-0000000011883470 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011883470.dll
-Non platform assembly: data-000000001188C880 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001188C880.dll
-Non platform assembly: data-000000001188EA90 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001188EA90.dll
-Non platform assembly: data-00000000118A70A0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000118A70A0.dll
-Non platform assembly: data-00000000118B0CB0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000118B0CB0.dll
-Non platform assembly: data-00000000118BB0C0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000118BB0C0.dll
-Non platform assembly: data-00000000118D19F0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000118D19F0.dll
-Non platform assembly: data-000000001198C520 (this message is harmless)
-Non platform assembly: data-000000001198C520 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001198C520.dll
-Non platform assembly: data-0000000011997D30 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011997D30.dll
-Non platform assembly: data-000000001199A140 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001199A140.dll
-Non platform assembly: data-000000001199F350 (this message is harmless)
-Non platform assembly: data-000000001199F350 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001199F350.dll
-Non platform assembly: data-0000000011A05830 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A05830.dll
-Non platform assembly: data-0000000011A09840 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A09840.dll
-Non platform assembly: data-0000000011A38E50 (this message is harmless)
-Non platform assembly: data-0000000011A38E50 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A38E50.dll
-Non platform assembly: data-0000000011A63AA0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A63AA0.dll
-Non platform assembly: data-0000000011A6BEB0 (this message is harmless)
-Non platform assembly: data-0000000011A6BEB0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A6BEB0.dll
-Non platform assembly: data-0000000011A6ECC0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A6ECC0.dll
+Non platform assembly: data-0000000011A4DC80 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A4DC80.dll
+Non platform assembly: data-0000000011A79690 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A79690.dll
+Non platform assembly: data-0000000011A9DEA0 (this message is harmless)
+Non platform assembly: data-0000000011970E90 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011970E90.dll
+Non platform assembly: data-0000000011A9DEA0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A9DEA0.dll
+Non platform assembly: data-0000000011AC4AB0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011AC4AB0.dll
+Non platform assembly: data-0000000011AD70D0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011AD70D0.dll
+Non platform assembly: data-0000000011AFAC40 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011AFAC40.dll
+Non platform assembly: data-0000000011B2C720 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B2C720.dll
+Non platform assembly: data-0000000011B47F60 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B47F60.dll
+Non platform assembly: data-0000000011B6C570 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B6C570.dll
+Non platform assembly: data-0000000011B6F980 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B6F980.dll
+Non platform assembly: data-0000000011B71390 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B71390.dll
+Non platform assembly: data-0000000011A23D70 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A23D70.dll
+Non platform assembly: data-0000000011B97BA0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B97BA0.dll
+Non platform assembly: data-0000000011B991B0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B991B0.dll
+Non platform assembly: data-0000000011B9E9C0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B9E9C0.dll
+Non platform assembly: data-000000000DE42E10 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DE42E10.dll
+Non platform assembly: data-0000000011978BE0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011978BE0.dll
+Non platform assembly: data-0000000011BA05D0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BA05D0.dll
+Non platform assembly: data-0000000011BA99E0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BA99E0.dll
+Non platform assembly: data-0000000011BB3BF0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BB3BF0.dll
+Non platform assembly: data-0000000011BCC200 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BCC200.dll
+Non platform assembly: data-0000000011BD5E10 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BD5E10.dll
+Non platform assembly: data-0000000011BE0220 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BE0220.dll
+Non platform assembly: data-0000000011BF6630 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BF6630.dll
+Non platform assembly: data-0000000011CB1940 (this message is harmless)
+Non platform assembly: data-0000000011CB1940 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CB1940.dll
+Non platform assembly: data-0000000011CCF350 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CCF350.dll
+Non platform assembly: data-0000000011CBD150 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CBD150.dll
+Non platform assembly: data-0000000011CD1760 (this message is harmless)
+Non platform assembly: data-0000000011CD1760 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CD1760.dll
+Non platform assembly: data-0000000011D34160 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D34160.dll
+Non platform assembly: data-0000000011D38170 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D38170.dll
+Non platform assembly: data-0000000011D6D780 (this message is harmless)
+Non platform assembly: data-0000000011D6D780 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D6D780.dll
+Non platform assembly: data-0000000011D7E790 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D7E790.dll
+Non platform assembly: data-0000000011D84BA0 (this message is harmless)
+Non platform assembly: data-0000000011D84BA0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D84BA0.dll
+Non platform assembly: data-0000000011D879B0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D879B0.dll
 [HugsLib] version 6.1.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -559,357 +559,9 @@ Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found 
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Cannot call ItemFromXmlFile with resolveCrossRefs=true while loading is already in progress.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_SonicDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found to give to CompSlotLoadable.CompProperties_SlottedBonus CompSlotLoadable.CompProperties_SlottedBonus
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2020 -> priority: 1 
-  Thread -> id: 4b4 -> priority: 1 
+  Thread -> id: 23cc -> priority: 1 
+  Thread -> id: 2fb0 -> priority: 1 
 Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -935,7 +587,7 @@ Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed
 Loading D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll into Unity Child Domain
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
 Loading D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
-- Completed reload, in  0.043 seconds
+- Completed reload, in  0.041 seconds
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.dll (this message is harmless)
@@ -945,87 +597,91 @@ WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to defau
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 3360x1080 at -1440,0
 <RI> Initialized touch support.
-UnloadTime: 1.354629 ms
+UnloadTime: 1.281263 ms
 RimWorld 1.0.2096 rev473
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.Linq.dll (this message is harmless)
-Non platform assembly: data-0000000011BF7E00 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BF7E00.dll
-Non platform assembly: data-0000000011C15810 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C15810.dll
-Non platform assembly: data-0000000011C41C50 (this message is harmless)
-Non platform assembly: data-0000000011C41C50 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C41C50.dll
-Non platform assembly: data-0000000011C42A60 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C42A60.dll
-Non platform assembly: data-0000000011C66210 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C66210.dll
-Non platform assembly: data-0000000011C79DC0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C79DC0.dll
-Non platform assembly: data-0000000011CB4490 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CB4490.dll
-Non platform assembly: data-0000000011CD9CA0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CD9CA0.dll
-Non platform assembly: data-0000000011CE61C0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CE61C0.dll
-Non platform assembly: data-0000000011D127D0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D127D0.dll
-Non platform assembly: data-0000000011D17BE0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D17BE0.dll
-Non platform assembly: data-0000000011D195F0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D195F0.dll
-Non platform assembly: data-0000000011BCEEF0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011BCEEF0.dll
-Non platform assembly: data-0000000011D41E00 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D41E00.dll
-Non platform assembly: data-0000000011D43410 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D43410.dll
-Non platform assembly: data-0000000011D4AC20 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D4AC20.dll
-Non platform assembly: data-000000000DEBCEA0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DEBCEA0.dll
-Non platform assembly: data-0000000011966AE0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011966AE0.dll
-Non platform assembly: data-0000000011D4C830 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D4C830.dll
-Non platform assembly: data-0000000011D57C40 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D57C40.dll
-Non platform assembly: data-0000000011D59E50 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D59E50.dll
-Non platform assembly: data-0000000011D74460 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D74460.dll
-Non platform assembly: data-0000000011D7A070 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D7A070.dll
-Non platform assembly: data-0000000011D84480 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D84480.dll
-Non platform assembly: data-0000000011D9CDB0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D9CDB0.dll
-Non platform assembly: data-0000000011E738E0 (this message is harmless)
-Non platform assembly: data-0000000011E738E0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E738E0.dll
-Non platform assembly: data-0000000011E7F0F0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E7F0F0.dll
-Non platform assembly: data-0000000011E81500 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E81500.dll
-Non platform assembly: data-0000000011E86710 (this message is harmless)
-Non platform assembly: data-0000000011E86710 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011E86710.dll
-Non platform assembly: data-0000000011EF0BF0 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011EF0BF0.dll
-Non platform assembly: data-0000000011EF4C00 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011EF4C00.dll
-Non platform assembly: data-0000000011F1A210 (this message is harmless)
-Non platform assembly: data-0000000011F1A210 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011F1A210.dll
-Non platform assembly: data-0000000011F2B220 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011F2B220.dll
-Non platform assembly: data-0000000011F35630 (this message is harmless)
-Non platform assembly: data-0000000011F35630 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011F35630.dll
-Non platform assembly: data-0000000011F3A440 (this message is harmless)
-Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011F3A440.dll
+Non platform assembly: data-00000000119E90E0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000119E90E0.dll
+Non platform assembly: data-0000000011A14AF0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A14AF0.dll
+Non platform assembly: data-0000000011A3AEF0 (this message is harmless)
+Non platform assembly: data-0000000011996300 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011996300.dll
+Non platform assembly: data-0000000011A3AEF0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A3AEF0.dll
+Non platform assembly: data-0000000011A59B00 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A59B00.dll
+Non platform assembly: data-0000000011A69B10 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A69B10.dll
+Non platform assembly: data-0000000011A92120 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011A92120.dll
+Non platform assembly: data-0000000011AD1220 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011AD1220.dll
+Non platform assembly: data-0000000011ADB740 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011ADB740.dll
+Non platform assembly: data-0000000011B08060 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B08060.dll
+Non platform assembly: data-0000000011B0B780 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B0B780.dll
+Non platform assembly: data-0000000011B11190 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B11190.dll
+Non platform assembly: data-00000000119C11D0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000119C11D0.dll
+Non platform assembly: data-0000000011B379A0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B379A0.dll
+Non platform assembly: data-0000000011B38FB0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B38FB0.dll
+Non platform assembly: data-0000000011B3E7C0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B3E7C0.dll
+Non platform assembly: data-000000000DE12E10 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000000DE12E10.dll
+Non platform assembly: data-00000000116E8790 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000116E8790.dll
+Non platform assembly: data-0000000011B403D0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B403D0.dll
+Non platform assembly: data-0000000011B517E0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B517E0.dll
+Non platform assembly: data-0000000011B539F0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B539F0.dll
+Non platform assembly: data-0000000011B6C000 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B6C000.dll
+Non platform assembly: data-0000000011B71C10 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B71C10.dll
+Non platform assembly: data-0000000011B7C020 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B7C020.dll
+Non platform assembly: data-0000000011B92950 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011B92950.dll
+Non platform assembly: data-0000000011C4FC60 (this message is harmless)
+Non platform assembly: data-0000000011C4FC60 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C4FC60.dll
+Non platform assembly: data-0000000011C6D670 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C6D670.dll
+Non platform assembly: data-0000000011C72880 (this message is harmless)
+Non platform assembly: data-0000000011C72880 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C72880.dll
+Non platform assembly: data-0000000011CCF690 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CCF690.dll
+Non platform assembly: data-0000000011CED2A0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011CED2A0.dll
+Non platform assembly: data-0000000011C60B40 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C60B40.dll
+Non platform assembly: data-0000000011C62F50 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011C62F50.dll
+Non platform assembly: data-0000000011D268B0 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D268B0.dll
+Non platform assembly: data-0000000011D7BF30 (this message is harmless)
+Non platform assembly: data-0000000011D7BF30 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D7BF30.dll
+Non platform assembly: data-0000000011D8CF40 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D8CF40.dll
+Non platform assembly: data-0000000011DA9940 (this message is harmless)
+Non platform assembly: data-0000000011D93350 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011D93350.dll
+Non platform assembly: data-0000000011DB1940 (this message is harmless)
+Fallback handler could not load library D:/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000011DB1940.dll
 [HugsLib] version 6.1.1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -1095,124 +751,15 @@ Could not resolve cross-reference: No Verse.DamageDef named PJ_PontiteDam found 
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Mono.Security.dll (this message is harmless)
+Alien race successfully completed 144 patches with harmony.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 [HugsLib] initializing Children, MapReroll
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.118935 ms
-
-Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 10950.
-Total: 56.531658 ms (FindLiveObjects: 0.810833 ms CreateObjectMapping: 0.763209 ms MarkObjects: 54.853134 ms  DeleteObjects: 0.103996 ms)
-
-Loading game from file Autosave-1 with mods Core, 818773962, 1541438230, 932008009, 735106432, 1446523594, 1195427067, 1507748539, 761315214, 1543164506, 849231601, 725947920, 725952322, 736207111, 844351752, 918227266, 1543694909, 1573217648, 1543177113
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Platform assembly: D:\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Mono.Security.dll (this message is harmless)
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 17533.
-Total: 204.020294 ms (FindLiveObjects: 1.561893 ms CreateObjectMapping: 1.852744 ms MarkObjects: 200.539581 ms  DeleteObjects: 0.065362 ms)
-
-partneredCols % 2 != 0
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161067 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161074 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161067 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161074 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161067 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161074 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161067 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161074 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161067 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161074 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Date walk destinations found from beauty 0.4782609 to -6.251799
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-No date walk path found.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human92114 is referenced (xml node name: pawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human160322 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161067 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Object with load ID Thing_Human161074 is referenced (xml node name: otherPawn) but is not deep-saved. This will cause errors during loading.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.082848 ms
-
-Unloading 6509 unused Assets to reduce memory usage. Loaded Objects now: 12641.
-Total: 109.310448 ms (FindLiveObjects: 1.314051 ms CreateObjectMapping: 1.627256 ms MarkObjects: 81.051056 ms  DeleteObjects: 25.316866 ms)
-
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: b74 -> priority: 1 
-  Thread -> id: 714 -> priority: 1 
+  Thread -> id: 40e4 -> priority: 1 
+  Thread -> id: 2d04 -> priority: 1 
